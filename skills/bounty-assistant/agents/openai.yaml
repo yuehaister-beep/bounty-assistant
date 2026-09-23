@@ -1,0 +1,4 @@
+interface:
+  display_name: "悬赏参赛助手"
+  short_description: "搜集核验悬赏，按需补齐资料、准备作品，并按授权投稿和跟进结果"
+  default_prompt: "使用 $bounty-assistant 检查我的悬赏清单，筛选仍有效且适合 AI 辅助完成的项目，先汇报候选。"
